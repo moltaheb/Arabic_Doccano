@@ -1,0 +1,21 @@
+export default {
+  continue: 'الاستمرار',
+  yes: 'نعم',
+  all: 'الكل',
+  save: 'حفظ',
+  edit: 'التغجيل',
+  create: 'إنشاء',
+  cancel: 'إلغاء',
+  close: 'إغلاق',
+  upload: 'التحميل',
+  add: 'إضافة',
+  delete: 'حذف',
+  deleteAll: 'حذف الجميع',
+  search: 'البحث',
+  name: 'الاسم',
+  import: 'استيراد',
+  export: 'تصدير',
+  description: 'الوصف',
+  type: 'النوع',
+  loading: 'جاري التحميل .. فضلا انتظر'
+}
